@@ -1,0 +1,266 @@
+[
+    {
+        "user": "hello talkbot"
+    },
+    {
+        "bot": "Hello! how can I assist you today?"
+    },
+    {
+        "user": "weather today"
+    },
+    {
+        "bot": "Here's what I found: Weather is the state of the atmosphere, describing for example the degree to which it is hot or cold, wet or dry, calm or stormy, clear or cloudy. On Earth, most weather phenomena occur in the lowest layer of the planet's atmosphere, the troposphere, just below the stratosphere. \ud83d\ude0a"
+    },
+    {
+        "user": "hello"
+    },
+    {
+        "bot": "Here's what I found: In religion and folklore, hell is a location or state in the afterlife in which souls are subjected to punitive punishment after death. Religions with a linear divine history sometimes depict hells as eternal destinations, such as Christianity and Islam, whereas religions with reincarnation usually depict a hell as an intermediary period between incarnations, as is the case in the Indian religions. \ud83d\ude0a"
+    },
+    {
+        "user": "hello"
+    },
+    {
+        "bot": "Here's what I found: In religion and folklore, hell is a location or state in the afterlife in which souls are subjected to punitive punishment after death. Religions with a linear divine history sometimes depict hells as eternal destinations, such as Christianity and Islam, whereas religions with reincarnation usually depict a hell as an intermediary period between incarnations, as is the case in the Indian religions. \ud83d\ude0a"
+    },
+    {
+        "user": "hello talkbot"
+    },
+    {
+        "bot": "Hello! how can I assist you today?"
+    },
+    {
+        "user": "website"
+    },
+    {
+        "bot": "Here's what I found: A website (also written as a web site) is any web page whose content is identified by a common domain name and is published on at least one web server. Websites are typically dedicated to a particular topic or purpose, such as news, education, commerce, entertainment, or social media. \ud83d\ude0a"
+    },
+    {
+        "user": "server"
+    },
+    {
+        "bot": "That topic is a bit broad! Did you mean: Serve (pickleball), Serve (pickleball), Serve (tennis), Serve (volleyball), Marie-Paule Serve? \ud83e\udd14"
+    },
+    {
+        "user": "hello talkbot"
+    },
+    {
+        "bot": "Hello! how can I assist you today?"
+    },
+    {
+        "user": "website"
+    },
+    {
+        "bot": "Here's what I found: A website (also written as a web site) is any web page whose content is identified by a common domain name and is published on at least one web server. Websites are typically dedicated to a particular topic or purpose, such as news, education, commerce, entertainment, or social media. \ud83d\ude0a"
+    },
+    {
+        "user": "server"
+    },
+    {
+        "bot": "That topic is a bit broad! Did you mean: Serve (pickleball), Serve (pickleball), Serve (tennis), Serve (volleyball), Marie-Paule Serve? \ud83e\udd14"
+    },
+    {
+        "user": "garden"
+    },
+    {
+        "bot": "Here's what I found: A garden is a planned space, usually outdoors, set aside for the cultivation, display, and enjoyment of plants and other forms of nature. The single feature identifying even the wildest wild garden is control. \ud83d\ude0a"
+    },
+    {
+        "user": "garden"
+    },
+    {
+        "bot": "Here's what I found: A garden is a planned space, usually outdoors, set aside for the cultivation, display, and enjoyment of plants and other forms of nature. The single feature identifying even the wildest wild garden is control. \ud83d\ude0a"
+    },
+    {
+        "user": "travelling"
+    },
+    {
+        "bot": "Here's what I found: Travel is the movement of people between distant geographical locations. Travel can be done by foot, bicycle, automobile, train, boat, bus, airplane, ship or other means, with or without luggage, and can be one way or round trip. \ud83d\ude0a"
+    },
+    {
+        "user": "javascript"
+    },
+    {
+        "bot": "Here's what I found: JavaScript ( ), often abbreviated as JS, is a programming language and core technology of the World Wide Web, alongside HTML and CSS. Ninety-nine percent of websites use JavaScript on the client side for webpage behavior.\nWeb browsers have a dedicated JavaScript engine that executes the client code. \ud83d\ude0a"
+    },
+    {
+        "user": "btech"
+    },
+    {
+        "bot": "Oops! I couldn't find anything on that topic. Maybe try another question? \ud83e\udd37\u200d\u2642\ufe0f"
+    },
+    {
+        "user": "b.tech"
+    },
+    {
+        "bot": "Oops! I couldn't find anything on that topic. Maybe try another question? \ud83e\udd37\u200d\u2642\ufe0f"
+    },
+    {
+        "user": "btech in computer science"
+    },
+    {
+        "bot": "Here's what I found: The Indian Institute of Technology Guwahati (IIT Guwahati) is a public technical university established by the Government of India, located in Amingaon, North Guwahati, in the state of Assam in India. It is the sixth Indian Institute of Technology established in India. \ud83d\ude0a"
+    },
+    {
+        "user": "hello talkbot"
+    },
+    {
+        "bot": "Hello! how can I assist you today?"
+    },
+    {
+        "user": "hello talkbot"
+    },
+    {
+        "bot": "Hello! how can I assist you today?"
+    },
+    {
+        "user": "hello talkbot"
+    },
+    {
+        "bot": "Hello! how can I assist you today?"
+    },
+    {
+        "user": "hello talkbot"
+    },
+    {
+        "bot": "Hello! how can I assist you today?"
+    },
+    {
+        "user": "define python language"
+    },
+    {
+        "bot": "Oops! I couldn't find anything on that topic. Maybe try another question? \ud83e\udd37\u200d\u2642\ufe0f"
+    },
+    {
+        "user": "javascript"
+    },
+    {
+        "bot": "Here's what I found: JavaScript ( ), often abbreviated as JS, is a programming language and core technology of the World Wide Web, alongside HTML and CSS. Ninety-nine percent of websites use JavaScript on the client side for webpage behavior.\nWeb browsers have a dedicated JavaScript engine that executes the client code. \ud83d\ude0a"
+    },
+    {
+        "user": "web development"
+    },
+    {
+        "bot": "Oops! I couldn't find anything on that topic. Maybe try another question? \ud83e\udd37\u200d\u2642\ufe0f"
+    },
+    {
+        "user": "define web development"
+    },
+    {
+        "bot": "Here's what I found: Web development is the work involved in developing a website for the Internet (World Wide Web) or an intranet (a private network). Web development can range from developing a simple single static page of plain text to complex web applications, electronic businesses, and social network services. \ud83d\ude0a"
+    },
+    {
+        "user": "javascript"
+    },
+    {
+        "bot": "Here's what I found: JavaScript ( ), often abbreviated as JS, is a programming language and core technology of the World Wide Web, alongside HTML and CSS. Ninety-nine percent of websites use JavaScript on the client side for webpage behavior.\nWeb browsers have a dedicated JavaScript engine that executes the client code. \ud83d\ude0a"
+    },
+    {
+        "user": "hello talkbot"
+    },
+    {
+        "bot": "Hello! how can I assist you today?"
+    },
+    {
+        "user": "define website"
+    },
+    {
+        "bot": "Here's what I found: A website (also written as a web site) is any web page whose content is identified by a common domain name and is published on at least one web server. Websites are typically dedicated to a particular topic or purpose, such as news, education, commerce, entertainment, or social media. \ud83d\ude0a"
+    },
+    {
+        "user": "hello talkbot"
+    },
+    {
+        "bot": "Hello! how can I assist you today?"
+    },
+    {
+        "user": "hello talkbot"
+    },
+    {
+        "bot": "Hello! how can I assist you today?"
+    },
+    {
+        "user": "hello talkbot"
+    },
+    {
+        "bot": "Hello! how can I assist you today?"
+    },
+    {
+        "user": "who is the president of india"
+    },
+    {
+        "bot": "Here's what I found: The president of India  (ISO: Bh\u0101rata k\u0113 R\u0101\u1e63\u1e6drapati) is the head of state of the Republic of India. The president is the nominal head of the executive, the first citizen of the country, as well as the supreme commander of the Indian Armed Forces. \ud83d\ude0a"
+    },
+    {
+        "user": "what is javascript"
+    },
+    {
+        "bot": "Here's what I found: JavaScript ( ), often abbreviated as JS, is a programming language and core technology of the World Wide Web, alongside HTML and CSS. Ninety-nine percent of websites use JavaScript on the client side for webpage behavior.\nWeb browsers have a dedicated JavaScript engine that executes the client code. \ud83d\ude0a"
+    },
+    {
+        "user": "hello talkbot"
+    },
+    {
+        "bot": "Hello! how can I assist you today?"
+    },
+    {
+        "user": "goodbye"
+    },
+    {
+        "bot": "See you later! Take care! \ud83d\ude0a"
+    },
+    {
+        "user": "hello talkbot"
+    },
+    {
+        "bot": "Hello! how can I assist you today?"
+    },
+    {
+        "user": "name president of india"
+    },
+    {
+        "bot": "Here's what I found: The president of India  (ISO: Bh\u0101rata k\u0113 R\u0101\u1e63\u1e6drapati) is the head of state of the Republic of India. The president is the nominal head of the executive, the first citizen of the country, as well as the supreme commander of the Indian Armed Forces. \ud83d\ude0a"
+    },
+    {
+        "user": "define website"
+    },
+    {
+        "bot": "Here's what I found: A website (also written as a web site) is any web page whose content is identified by a common domain name and is published on at least one web server. Websites are typically dedicated to a particular topic or purpose, such as news, education, commerce, entertainment, or social media. \ud83d\ude0a"
+    },
+    {
+        "user": "name president of india"
+    },
+    {
+        "bot": "Here's what I found: The president of India  (ISO: Bh\u0101rata k\u0113 R\u0101\u1e63\u1e6drapati) is the head of state of the Republic of India. The president is the nominal head of the executive, the first citizen of the country, as well as the supreme commander of the Indian Armed Forces. \ud83d\ude0a"
+    },
+    {
+        "user": "bye"
+    },
+    {
+        "bot": "Goodbye! Hope to chat with you again soon! \ud83d\udc4b"
+    },
+    {
+        "user": "nokoru"
+    },
+    {
+        "bot": "Here's what I found: Noboru (written: \u6607, \u767b, \u8b04, \u76db, \u306e\u307c\u308b in hiragana or \u30ce\u30dc\u30eb katakana) is a masculine Japanese given name. \ud83d\ude0a"
+    },
+    {
+        "user": "hey"
+    },
+    {
+        "bot": "That topic is a bit broad! Did you mean: H.E.R., H.E.R. (album), HIM (Finnish band), Trish Doan, Her (Minnie EP)? \ud83e\udd14"
+    },
+    {
+        "user": "hey talkbot"
+    },
+    {
+        "bot": "Oops! I couldn't find anything on that topic. Maybe try another question? \ud83e\udd37\u200d\u2642\ufe0f"
+    },
+    {
+        "user": "goodbye"
+    },
+    {
+        "bot": "See you later! Take care! \ud83d\ude0a"
+    }
+]
